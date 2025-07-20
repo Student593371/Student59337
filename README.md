@@ -5,6 +5,7 @@ This repository was created by Student59337 (name omitted for privacy) for Getti
 Dataset: 
 
 Human Activity Recognition Using Smartphones: link = http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 Dataset for the project can be found in the following Zip file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Files in this Repository: 
