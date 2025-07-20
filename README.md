@@ -1,11 +1,14 @@
 Getting and Cleaning Data Coursera Final Project 
+
 This repository was created by Student59337 (name omitted for privacy) for Getting and Cleaning Data Coursera final project. It has instructions on how to run the analysis using the Human Activity recognition dataset. 
 
 Dataset: 
+
 Human Activity Recognition Using Smartphones: link = http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Dataset for the project can be found in the following Zip file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Files in this Repository: 
+
 CodeBook.md - a code book that describes the variables, data, and any transformation that are completed as a part of the cleaning the data. 
 run_analysis.R - provides the code need to complete data cleaning for the data set following the steps outlined by the project. The steps that are included are: 
     1.Merges the training and the test sets to create one data set.
